@@ -1,2 +1,3 @@
-# MANUAL_USUARIO_NOTAS
-Manual de usuario para las 
+# LINK DE LA APP
+
+https://celebrated-fenglisu-f3908d.netlify.app/
